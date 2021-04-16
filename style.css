@@ -1,0 +1,82 @@
+.mar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+color: crimson;
+font-size: medium;
+font-weight: bold;
+}
+img{
+    height: 400px;
+    width: 200px;
+    border-radius: 80%;
+}
+
+.head{
+    color:rgb(8, 8, 165);
+    background-color: rgb(243, 221, 125);
+    margin:2px;
+    height: 50px;
+}
+.basic{
+color:rgb(23, 133, 91);
+height:200px;
+background-color:rgb(38, 83, 100);
+padding: 20px;
+}
+.basic:hover{
+    background-color:hotpink;
+
+    color:purple;
+    font-weight: bold;
+}
+#pm{
+    background-color: coral;
+    color: rgb(230, 14, 230);
+    height: 50px;
+    margin: 2px;
+    border-color: red;
+}
+.fav{
+    color:rgb(5, 5, 151);
+    height:200px;
+    background-color:rgb(199, 90, 141);
+    padding: 20px;
+}
+.fav:hover{
+    background-color: sandybrown;
+    color: rgb(230, 14, 230);
+    font-style: italic;
+}
+.tab{
+    background-color: gray;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
